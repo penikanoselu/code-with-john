@@ -19,7 +19,7 @@ elif digit_a > digit_b:
             print(digit_a)
         digit_a -= 1
 else: 
-    print("Invalid!!!!")
+    print("Error!")
 
 
 
