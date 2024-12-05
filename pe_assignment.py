@@ -26,6 +26,6 @@ else:
 
 # Question 2: write a program given a string "S" print all the even characters (in terms of the character count)
 
-sentence = input("Enter a phrase or clause: ")
-print(sentence[1::2])
+s = input("Enter a phrase or clause: ")
+print(s[1::2])
 
